@@ -1,0 +1,51 @@
+ .u-section-1 {
+  background-position: 50% 50%, 50% 50%;
+  background-repeat: no-repeat, no-repeat;
+  background-image: linear-gradient(rgba(228, 225, 237, 0.9), rgba(228, 225, 237, 0.9)), url("images/pexels-goumbik-669619.jpg");
+  background-size: cover, cover;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1339px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-custom-html-1 {
+  margin-top: 31px;
+  margin-bottom: -81px;
+  height: auto;
+  min-height: 1389px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 968px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-bottom: -217px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 741px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 556px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1203px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    min-height: 1361px;
+    margin: 20px 473px -178px -481px;
+  }
+}
